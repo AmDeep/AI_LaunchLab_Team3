@@ -2,5 +2,5 @@
 
 SR_YS_baseline.ipynb - exploring interpolation of the tt data, trying to add altitude difference between two models
 SR_SRGAN_LT.ipynb - modified SRGAN implentation from https://github.com/vishal1905/Super-Resolution
-
+SR_SM_LR.ipynb - linear regression model and elastic net model 
 
